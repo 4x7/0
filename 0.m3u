@@ -3,3 +3,25 @@
 http://cactus.tv:8080/cam1/index.m3u8
 #EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam2/preview.jpg" tvg-id=2 group-title="Камеры" tvg-name="Магнит",Магнит
 http://cactus.tv:8080/cam2/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam5/preview.jpg" tvg-id=5 group-title="Камеры" tvg-name="Остановка 562",Остановка 562
+http://cactus.tv:8080/cam5/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam6/preview.jpg" tvg-id=6 group-title="Камеры" tvg-name="Остановка 205",Остановка 205
+http://cactus.tv:8080/cam6/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam7/preview.jpg" tvg-id=7 group-title="Камеры" tvg-name="Развязка",Развязка
+http://cactus.tv:8080/cam7/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam14/preview.jpg" tvg-id=14 group-title="Камеры" tvg-name="Трещина",Трещина
+http://cactus.tv:8080/cam14/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam17/preview.jpg" tvg-id=17 group-title="Камеры" tvg-name="Медвежка",Медвежка
+http://cactus.tv:8080/cam17/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam58/preview.jpg" tvg-id=58 group-title="Камеры" tvg-name="Булочная 74",Булочная 74
+http://cactus.tv:8080/cam58/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam89/preview.jpg" tvg-id=89 group-title="Камеры" tvg-name="Остановка у тц 1",Остановка у тц 1
+http://cactus.tv:8080/cam89/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam90/preview.jpg" tvg-id=90 group-title="Камеры" tvg-name="Остановка у тц 2",Остановка у тц 2
+http://cactus.tv:8080/cam90/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam167/preview.jpg" tvg-id=167 group-title="Камеры" tvg-name="Перекресток",Перекресток
+http://cactus.tv:8080/cam167/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam168/preview.jpg" tvg-id=168 group-title="Камеры" tvg-name="Сцена 1",Сцена 1
+http://cactus.tv:8080/cam168/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam169/preview.jpg" tvg-id=169 group-title="Камеры" tvg-name="Сцена 2",Сцена 2
+http://cactus.tv:8080/cam169/index.m3u8
