@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam1/preview.jpg" group-title="Камеры",Озеро
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam1/preview.jpg" tvg-id=1 group-title="Камеры" tvg-name="Озеро",Озеро
 http://cactus.tv:8080/cam1/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam2/preview.jpg" tvg-id=2 group-title="Камеры" tvg-name="Магнит",Магнит
+http://cactus.tv:8080/cam2/index.m3u8
