@@ -3,10 +3,12 @@
 http://cactus.tv:8080/cam1/index.m3u8
 #EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam2/preview.jpg" tvg-id=2 group-title="Камеры" tvg-name="Магнит",Магнит
 http://cactus.tv:8080/cam2/index.m3u8
-#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam6/preview.jpg" tvg-id=6 group-title="Камеры" tvg-name="Остановка 205",Остановка 205
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam6/preview.jpg" tvg-id=6 group-title="Камеры" tvg-name="Остановка 562",Остановка 562
 http://cactus.tv:8080/cam6/index.m3u8
-#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam7/preview.jpg" tvg-id=7 group-title="Камеры" tvg-name="Остановка 562",Остановка 562
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam7/preview.jpg" tvg-id=7 group-title="Камеры" tvg-name="Остановка 205",Остановка 205
 http://cactus.tv:8080/cam7/index.m3u8
+#EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam19/preview.jpg" tvg-id=169 group-title="Камеры" tvg-name="Школа",Школа
+http://cactus.tv:8080/cam19/index.m3u8
 #EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam10/preview.jpg" tvg-id=10 group-title="Камеры" tvg-name="Развязка",Развязка
 http://cactus.tv:8080/cam10/index.m3u8
 #EXTINF:-1 tvg-logo="http://cactus.tv:8080/cam14/preview.jpg" tvg-id=14 group-title="Камеры" tvg-name="Трещина",Трещина
